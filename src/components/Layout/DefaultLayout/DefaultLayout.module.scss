@@ -6,9 +6,8 @@
 }
 
 .container{
-    width: 1150px;
+    width: var(--default-layout-header-width);
     display: flex;
-    background-color: red;
 }
 .content{
     flex: 1;
